@@ -1,0 +1,1090 @@
+WEBVTT
+
+00:01.105 --> 00:02.862
+This is my website today.
+
+00:03.187 --> 00:06.105
+There's a research map, a little butterfly,
+
+00:06.330 --> 00:09.728
+and even an assistant that answers questions about
+my work.
+
+00:10.233 --> 00:11.689
+But it didn't start like this.
+
+00:12.155 --> 00:15.092
+Here's Version 1, from 2023.
+
+00:15.558 --> 00:20.057
+A name, a short profile, a menu, a few groups of
+evidence.
+
+00:20.382 --> 00:21.098
+Pretty plain.
+
+00:21.523 --> 00:23.600
+And it started from a free template.
+
+00:25.606 --> 00:28.663
+Now here's what you often get if you just ask AI,
+
+00:29.189 --> 00:33.328
+"Make me a personal website." Welcome to my digital
+universe.
+
+00:33.633 --> 00:34.369
+Innovator.
+
+00:34.514 --> 00:35.209
+Creator.
+
+00:35.255 --> 00:36.023
+Visionary.
+
+00:36.023 --> 00:39.053
+Fifty projects, ninety-eight percent success.
+
+00:39.319 --> 00:40.655
+Sounds impressive, right?
+
+00:41.160 --> 00:43.257
+The problem is, none of it is true.
+
+00:43.563 --> 00:46.080
+Nobody told AI who you are, so it guessed.
+
+00:48.085 --> 00:50.562
+So in this video, we're doing it differently.
+
+00:50.848 --> 00:55.066
+You'll start from a real project, give AI your real
+facts,
+
+00:55.332 --> 00:58.049
+and approve the plan before it builds anything.
+
+00:58.655 --> 01:01.832
+By the end, you'll have Version 1 of your own
+website.
+
+01:02.278 --> 01:03.066
+Not perfect.
+
+01:03.066 --> 01:06.897
+But true, and yours, and something you can open
+again tomorrow.
+
+01:07.703 --> 01:08.671
+Hi, I'm Belle.
+
+01:08.671 --> 01:10.340
+Welcome to Structure Foundation.
+
+01:12.385 --> 01:14.862
+Everything in this video lives on one page.
+
+01:15.168 --> 01:16.964
+The link is right below the video.
+
+01:17.489 --> 01:21.227
+If it asks for an access code, use the one that came
+with it.
+
+01:21.633 --> 01:22.989
+This is the lesson board.
+
+01:22.994 --> 01:29.414
+Four folders, left to right: Get Ready, Study
+References, Build the Foundation, and Check and
+Save.
+
+01:29.919 --> 01:33.737
+The numbers, like 00 to 06, are minutes from the
+live workshop.
+
+01:34.063 --> 01:35.359
+You don't need to match them.
+
+01:35.584 --> 01:36.940
+They just show the order.
+
+01:38.645 --> 01:45.072
+Open any folder and you'll see the same three lines
+at the top: Goal, Output, Checkpoint.
+
+01:45.498 --> 01:47.496
+If you ever feel lost, read those.
+
+01:47.742 --> 01:49.520
+They tell you what you're making right now.
+
+01:51.626 --> 01:52.722
+A few more things.
+
+01:53.107 --> 01:56.426
+Buttons that say Copy put text on your clipboard.
+
+01:56.972 --> 01:59.549
+Links with a little arrow open a new tab.
+
+01:59.815 --> 02:03.694
+At the bottom of each folder, Continue takes you to
+the next one.
+
+02:04.119 --> 02:06.257
+This Lesson board link takes you back.
+
+02:06.562 --> 02:09.260
+And if things look tiny, hit Fit board.
+
+02:11.006 --> 02:11.661
+That's it.
+
+02:11.987 --> 02:14.950
+The video follows this board from left to right,
+
+02:14.950 --> 02:17.873
+so you can pause anytime and find where we are.
+
+02:18.259 --> 02:20.979
+Just watch the strip at the bottom of the screen.
+
+02:23.245 --> 02:24.561
+Okay, first folder.
+
+02:24.887 --> 02:25.602
+Get Ready.
+
+02:26.248 --> 02:29.785
+Up top, it says the final website is still HTML.
+
+02:30.371 --> 02:34.649
+HTML is just the page format your browser knows how
+to show.
+
+02:34.974 --> 02:38.552
+And honestly, one AI-made HTML page can look great.
+
+02:38.857 --> 02:40.654
+Think of it like a finished cake.
+
+02:40.879 --> 02:42.795
+Sometimes a cake is all you need.
+
+02:42.941 --> 02:45.838
+But today we want the recipe and the baking kit too.
+
+02:46.183 --> 02:48.740
+Something we can come back to and keep improving.
+
+02:50.746 --> 02:52.623
+So here's how we split the work.
+
+02:53.329 --> 02:56.668
+AI handles the files, the code, the setup.
+
+02:56.874 --> 03:01.474
+You decide the facts, the direction, the boundaries,
+and which version you keep.
+
+03:01.940 --> 03:04.538
+You won't touch a single technical file today.
+
+03:04.864 --> 03:05.540
+Promise.
+
+03:07.625 --> 03:09.602
+Next, open a Builder.
+
+03:10.088 --> 03:14.486
+If you already use Codex or Claude Code, great, use
+that.
+
+03:14.851 --> 03:16.848
+They work right inside a project.
+
+03:17.113 --> 03:20.531
+If you don't have either, click Open Google AI
+Studio.
+
+03:20.816 --> 03:23.093
+It's free, and it runs in your browser.
+
+03:23.519 --> 03:27.176
+Your result will look different from mine, and from
+everyone else's.
+
+03:27.442 --> 03:28.197
+That's fine.
+
+03:28.443 --> 03:31.500
+We're practicing a process, not copying a page.
+
+03:33.185 --> 03:34.722
+Last thing: your CV.
+
+03:35.208 --> 03:36.825
+Make a public-safe copy.
+
+03:37.211 --> 03:43.976
+Take out your home address, your private phone
+number, references, student data, anything
+confidential.
+
+03:44.302 --> 03:46.500
+And grab one photo if you'd like.
+
+03:54.606 --> 03:55.443
+Welcome back.
+
+03:55.689 --> 03:59.090
+Click Continue, and you're in Study References.
+
+03:59.517 --> 04:03.499
+It's the biggest folder, so we'll go through it in
+four parts.
+
+04:05.706 --> 04:13.049
+First, three Resource Banks: Academic and
+Professional, Project and Career, Personal and
+Ideas.
+
+04:13.435 --> 04:15.932
+Open any of them and just look around.
+
+04:16.318 --> 04:17.755
+You don't have to pick one.
+
+04:18.020 --> 04:19.877
+Save whatever catches your eye.
+
+04:20.423 --> 04:21.779
+We'll come back to this.
+
+04:24.185 --> 04:27.203
+Right below, there's that fake website from the
+start.
+
+04:27.589 --> 04:29.565
+This is what I call zero to one.
+
+04:29.831 --> 04:34.970
+When AI starts from nothing, it has to make a
+hundred little decisions on its own:
+
+04:35.296 --> 04:38.294
+the layout, the style, what to say about you.
+
+04:38.639 --> 04:41.076
+And it usually picks the most familiar thing.
+
+04:41.522 --> 04:42.290
+A gradient.
+
+04:42.290 --> 04:43.238
+Rounded cards.
+
+04:43.544 --> 04:44.800
+Big made-up numbers.
+
+04:46.966 --> 04:50.326
+Now look at the panel next to it: one to two.
+
+04:50.326 --> 04:53.647
+Here, AI starts from something that already works.
+
+04:53.952 --> 04:55.809
+It doesn't have to invent everything.
+
+04:56.095 --> 04:57.110
+It just adapts.
+
+04:57.336 --> 04:59.373
+And AI is so much better at that.
+
+04:59.558 --> 05:01.515
+That's really the main idea of today.
+
+05:02.020 --> 05:05.221
+AI is stronger at one to two than zero to one.
+
+05:05.221 --> 05:06.480
+So let's give it a one.
+
+05:08.705 --> 05:14.046
+This link opens our starting project, the Minimal
+Mistakes GitHub Pages Starter.
+
+05:14.471 --> 05:16.548
+Don't worry if GitHub is new to you.
+
+05:16.814 --> 05:18.811
+The live website is the cake.
+
+05:19.096 --> 05:20.953
+This page is the recipe box.
+
+05:21.399 --> 05:23.375
+You only need three questions here.
+
+05:23.861 --> 05:25.618
+One: what does it look like?
+
+05:25.983 --> 05:27.620
+There's usually a demo link.
+
+05:29.225 --> 05:31.626
+Two: am I allowed to use it?
+
+05:31.992 --> 05:33.109
+Check the license.
+
+05:33.496 --> 05:36.859
+Just because code is public doesn't mean you can
+copy it.
+
+05:39.346 --> 05:41.383
+Three: can AI read it?
+
+05:41.668 --> 05:42.907
+See all these folders?
+
+05:42.907 --> 05:44.366
+You don't need to understand them.
+
+05:44.431 --> 05:45.367
+Your Builder can.
+
+05:45.813 --> 05:46.929
+That's the whole point.
+
+05:47.215 --> 05:50.393
+It reads the real project instead of guessing from a
+picture.
+
+05:51.059 --> 05:52.716
+Oh, and this list of commits?
+
+05:53.081 --> 05:55.078
+A commit is just a saved change.
+
+05:55.224 --> 05:56.199
+Remember that word.
+
+05:57.396 --> 05:58.932
+It's coming back in a minute.
+
+05:59.238 --> 06:02.937
+You don't need to click Use this template or set
+anything up.
+
+06:03.402 --> 06:06.641
+The Prompt you'll copy later already has this link
+in it.
+
+06:06.966 --> 06:12.427
+And if GitHub words still feel fuzzy, there's
+Optional GitHub definitions on the board,
+
+06:12.813 --> 06:14.489
+right under the Resource Banks.
+
+06:16.636 --> 06:17.793
+Back on the board.
+
+06:18.340 --> 06:21.403
+Here's something a real template gives you for free.
+
+06:21.970 --> 06:23.421
+This is my Version 1.
+
+06:23.421 --> 06:24.070
+Desktop.
+
+06:25.816 --> 06:26.673
+Now phone.
+
+06:27.020 --> 06:29.381
+Same content, rearranged to fit.
+
+06:29.728 --> 06:30.919
+I didn't design that.
+
+06:30.919 --> 06:31.949
+The template did.
+
+06:34.316 --> 06:36.554
+One more idea before we move on.
+
+06:36.980 --> 06:39.798
+A reference and a template aren't the same thing.
+
+06:40.244 --> 06:42.602
+A reference shows AI what you like.
+
+06:42.968 --> 06:45.887
+A template gives AI a real project to build in.
+
+06:46.252 --> 06:48.070
+You'll have one of each today.
+
+06:50.036 --> 06:50.512
+Okay.
+
+06:50.979 --> 06:55.689
+So how did my plain 2023 site turn into what I have
+now?
+
+06:57.695 --> 06:59.472
+Not with one great prompt.
+
+06:59.858 --> 07:01.835
+Every little square here is a day.
+
+07:02.220 --> 07:04.798
+Every coloured one is a day I saved changes.
+
+07:05.223 --> 07:11.464
+That's more than 379 commits, from August 2023 to
+August 2026.
+
+07:11.990 --> 07:14.207
+A website really isn't one prompt.
+
+07:14.473 --> 07:16.930
+It's lots of small rounds on the same project.
+
+07:19.236 --> 07:22.813
+When I look back, those rounds fall into four
+layers.
+
+07:23.218 --> 07:25.194
+Structure decides where things go.
+
+07:25.700 --> 07:27.856
+That was my 2023 template.
+
+07:28.361 --> 07:30.718
+Content decides what those places mean.
+
+07:31.163 --> 07:33.419
+That came in October 2025.
+
+07:33.805 --> 07:36.401
+Visual design is what people notice and feel.
+
+07:37.067 --> 07:38.903
+March to June 2026.
+
+07:39.428 --> 07:44.587
+And Interaction, what visitors can actually do,
+started in August 2026.
+
+07:45.392 --> 07:50.130
+If you're curious, Open all six versions shows every
+archived version of the site.
+
+07:52.036 --> 07:54.713
+Today we only do layer one, Structure.
+
+07:55.059 --> 07:58.497
+That might sound small, but it's the one everything
+else sits on.
+
+07:58.943 --> 08:01.881
+If the structure's off, every later round has to
+fight it.
+
+08:02.186 --> 08:03.262
+And here's a bonus.
+
+08:03.448 --> 08:07.247
+Once you know the four layers, you can look at any
+website and ask:
+
+08:07.332 --> 08:09.229
+which layer do I actually like here?
+
+08:09.434 --> 08:10.350
+Let's try that.
+
+08:12.276 --> 08:14.534
+This part of the board has one rule:
+
+08:15.241 --> 08:18.921
+don't save a website without naming what you want to
+learn from it.
+
+08:19.547 --> 08:21.605
+So let's practice with four sites.
+
+08:21.671 --> 08:24.249
+For each one, guess the layer before I tell you.
+
+08:26.516 --> 08:27.872
+Jon Barron's site.
+
+08:28.277 --> 08:29.093
+Got a guess?
+
+08:29.318 --> 08:30.154
+It's Structure.
+
+08:30.740 --> 08:34.458
+Research comes first, and every paper uses the same
+pattern:
+
+08:34.864 --> 08:38.923
+an image, a title, one line about what it adds, and
+links.
+
+08:39.468 --> 08:42.746
+So you wouldn't tell AI, "Copy this." You'd say,
+
+08:42.952 --> 08:46.370
+"Show my strongest work early, using one repeated
+pattern."
+
+08:48.475 --> 08:50.392
+Next, Scholar in Motion.
+
+08:50.657 --> 08:54.335
+That's an open-source template I made from my own
+website.
+
+08:54.721 --> 09:00.621
+It opens with a short academic story, then leads
+into separate pages and a research map.
+
+09:00.866 --> 09:03.723
+Mostly Structure, with a strong Content idea.
+
+09:04.329 --> 09:07.847
+You're welcome to study or reuse the structure under
+its license.
+
+09:08.032 --> 09:11.570
+Just not my words, my photos, or my research
+identity.
+
+09:13.896 --> 09:17.515
+Echo Wang's portfolio looks and works like a Windows
+desktop.
+
+09:17.741 --> 09:18.439
+Which layer?
+
+09:18.439 --> 09:20.099
+Interaction, and a lot of Visual.
+
+09:20.384 --> 09:24.657
+It's really clever, and the interface itself shows
+how the designer thinks.
+
+09:24.657 --> 09:25.906
+But it's not for today.
+
+09:26.512 --> 09:28.350
+Save that idea for later.
+
+09:30.596 --> 09:36.576
+And Maggie Appleton's digital garden: notes, visual
+essays, ideas that are still growing.
+
+09:36.861 --> 09:38.137
+You might guess Visual.
+
+09:38.363 --> 09:40.659
+But the big choice here is Structure.
+
+09:41.045 --> 09:46.084
+Instead of organizing by job or year, the site is
+organized by how ideas connect.
+
+09:46.730 --> 09:51.169
+So here's a good question to borrow: if my site
+isn't organized by time,
+
+09:51.254 --> 09:52.530
+what could organize it?
+
+09:54.656 --> 09:56.413
+So, four different directions.
+
+09:56.799 --> 09:57.895
+Research first.
+
+09:58.160 --> 09:59.477
+An academic story.
+
+09:59.862 --> 10:01.799
+An interface that shows a skill.
+
+10:02.165 --> 10:03.502
+A garden of ideas.
+
+10:03.787 --> 10:05.784
+You're not looking for the fanciest one.
+
+10:05.970 --> 10:10.170
+You're looking for the one that fits your visitor
+and the evidence you really have.
+
+10:12.075 --> 10:14.913
+Now, how do you hand a reference to AI?
+
+10:15.238 --> 10:16.994
+With a Structure Reference Note.
+
+10:17.480 --> 10:21.598
+Here's my filled-in example, using my own 2023
+homepage.
+
+10:22.104 --> 10:23.820
+At the top, what the reference is.
+
+10:24.265 --> 10:25.521
+Then, Look at.
+
+10:26.107 --> 10:30.765
+I numbered five spots: the navigation, the profile
+that stays put,
+
+10:31.071 --> 10:36.370
+the first-screen message, the grouped evidence, and
+the path to my CV and contact.
+
+10:37.436 --> 10:39.754
+Then, what I want AI to learn:
+
+10:40.520 --> 10:46.042
+keep the identity steady while the main column goes
+from one short claim to grouped proof.
+
+10:46.649 --> 10:51.129
+What I'll change: my audience, my page names, my
+themes and evidence.
+
+10:52.696 --> 10:58.857
+And the boundary: don't copy my wording, my photo,
+my research labels, my look,
+
+10:59.103 --> 11:01.260
+or that butterfly I added later.
+
+11:02.086 --> 11:03.803
+That last line matters most.
+
+11:04.188 --> 11:07.407
+You're not asking AI to rebuild someone else's site.
+
+11:07.592 --> 11:10.230
+You're giving it one decision and one boundary.
+
+11:12.435 --> 11:15.373
+Scroll down to 30 to 34, Use Now.
+
+11:15.898 --> 11:22.038
+Click Copy blank Structure Note and paste it
+anywhere: a doc, your notes app, wherever.
+
+11:22.623 --> 11:25.941
+You'll see two more notes here, for Visual and
+Interaction.
+
+11:26.266 --> 11:27.362
+Those are for later.
+
+11:27.727 --> 11:29.944
+Just jot ideas there if you have them.
+
+11:30.569 --> 11:33.646
+And if nothing jumped out at you, that's totally
+fine.
+
+11:33.732 --> 11:34.647
+Skip the note.
+
+11:35.233 --> 11:38.350
+The Prompt has a sensible default structure built
+in.
+
+11:39.895 --> 11:42.957
+You're done with this part when you can say three
+things:
+
+11:43.364 --> 11:48.009
+what AI may learn, what you'll change, and what it
+must not copy.
+
+11:55.895 --> 11:57.994
+Okay, Build the Foundation.
+
+11:58.460 --> 12:00.438
+See the six steps across the top?
+
+12:00.804 --> 12:03.965
+Copy, Read, Approve, Inspect, Repair, Save.
+
+12:04.391 --> 12:06.109
+We'll go through them in order.
+
+12:08.495 --> 12:10.712
+Step one is the Foundation Prompt.
+
+12:10.777 --> 12:12.193
+Yes, it's long.
+
+12:12.319 --> 12:13.414
+That's on purpose.
+
+12:13.960 --> 12:18.118
+In my own work, I usually send short messages and
+adjust as I go.
+
+12:18.484 --> 12:23.303
+But this one is built to work across different
+Builders and head off the usual mistakes.
+
+12:23.668 --> 12:25.104
+So copy it as it is.
+
+12:25.570 --> 12:28.827
+The only thing you'd ever change is the
+starting-project link,
+
+12:29.213 --> 12:32.210
+and only if you picked a different licensed
+template.
+
+12:34.176 --> 12:38.273
+You don't need to read every line, but here's what
+it tells AI.
+
+12:38.739 --> 12:40.795
+Look before you touch anything.
+
+12:41.041 --> 12:44.818
+Read the project's instructions, license and setup
+first.
+
+12:44.963 --> 12:46.299
+Stay in this project.
+
+12:46.605 --> 12:49.762
+No blank HTML page, no brand-new app.
+
+12:50.087 --> 12:51.623
+The CV is the truth.
+
+12:51.909 --> 12:55.326
+No made-up jobs, dates, awards, papers or links.
+
+12:55.351 --> 12:56.227
+Plan first.
+
+12:56.712 --> 13:00.750
+Ask at most three questions, show a Blueprint, then
+stop and wait.
+
+13:01.455 --> 13:03.191
+And stop at Version 1.
+
+13:04.037 --> 13:07.815
+No fancy design, no animations, no publishing yet.
+
+13:08.241 --> 13:13.119
+The little numbered notes next to the Prompt explain
+each choice, if you're curious.
+
+13:14.125 --> 13:16.422
+One note if you're on Google AI Studio.
+
+13:16.988 --> 13:20.746
+It might not be able to run this kind of project
+exactly as is,
+
+13:21.071 --> 13:22.347
+so it may adapt it.
+
+13:22.873 --> 13:26.110
+That's okay, as long as it tells you what it
+changed.
+
+13:28.016 --> 13:32.536
+So: click Copy complete Prompt, paste it into your
+Builder,
+
+13:32.841 --> 13:36.460
+attach your CV, your photo and your note, and send.
+
+13:37.046 --> 13:38.323
+Then come right back.
+
+13:38.628 --> 13:40.826
+Don't sit there waiting for the reply.
+
+13:41.311 --> 13:44.189
+I'll show you what happens next while yours works.
+
+13:52.396 --> 13:54.835
+So while your Builder's reading the project,
+
+13:55.301 --> 13:58.982
+here's a real run I did with Codex on August 29th.
+
+13:59.408 --> 14:03.470
+Same Prompt, my public-safe CV, and one Structure
+Note.
+
+14:05.356 --> 14:09.055
+First thing it did: it asked before it changed
+anything.
+
+14:09.541 --> 14:11.779
+Three questions, one at a time.
+
+14:12.245 --> 14:13.621
+Who's the first visitor?
+
+14:14.087 --> 14:17.366
+I said research collaborators and academic peers.
+
+14:17.632 --> 14:19.609
+What should they get in five seconds?
+
+14:20.726 --> 14:27.067
+Belle Li studies authentic learning design across
+AI, XR, and mobile language learning.
+
+14:27.773 --> 14:29.409
+What evidence comes first?
+
+14:29.955 --> 14:32.432
+Selected publications and current studies.
+
+14:32.838 --> 14:34.454
+If you're not sure how to answer,
+
+14:34.500 --> 14:37.097
+just ask for two or three options and pick one.
+
+14:37.683 --> 14:40.000
+Just don't let AI decide who you are.
+
+14:42.086 --> 14:45.204
+Then it showed me a Structure Blueprint and stopped.
+
+14:45.830 --> 14:47.426
+This is your moment to check.
+
+14:47.712 --> 14:48.790
+Is the visitor right?
+
+14:48.790 --> 14:50.109
+The five-second message?
+
+14:50.354 --> 14:51.791
+The pages and the menu?
+
+14:52.236 --> 14:53.895
+The order on the homepage?
+
+14:53.895 --> 14:55.727
+And look at what's been postponed.
+
+14:55.727 --> 15:00.640
+Design polish, interaction, publishing: all of that
+should be waiting for later.
+
+15:02.666 --> 15:07.750
+If it all looks true, go to step three and click
+Copy approval sentence.
+
+15:08.036 --> 15:09.874
+Send it exactly as it is.
+
+15:10.220 --> 15:12.800
+Think of it as the key that unlocks the build.
+
+15:14.806 --> 15:16.201
+Now, my favourite part.
+
+15:16.667 --> 15:18.763
+My first build actually failed.
+
+15:19.249 --> 15:23.506
+My computer had the wrong version of Ruby, and the
+theme wouldn't download.
+
+15:23.972 --> 15:28.009
+A careless agent might've thrown everything out and
+made a fresh page.
+
+15:28.475 --> 15:29.510
+Codex didn't.
+
+15:29.876 --> 15:33.133
+It kept the project, used the Jekyll I already had,
+
+15:33.398 --> 15:36.795
+copied the licensed theme in, and built it properly.
+
+15:37.161 --> 15:40.218
+So remember: an error is normal, and you can fix it.
+
+15:40.603 --> 15:43.500
+What's not okay is AI replacing your project.
+
+15:45.025 --> 15:47.205
+And here's the Version 1 that came out.
+
+15:47.672 --> 15:49.110
+Yours will look different.
+
+15:49.778 --> 15:52.559
+Compare it to your Blueprint, not to my screen.
+
+16:00.726 --> 16:01.602
+Got a preview?
+
+16:02.008 --> 16:02.503
+Nice.
+
+16:02.789 --> 16:04.786
+Step four: inspect it.
+
+16:05.232 --> 16:10.074
+Look at the actual website, not just the list of
+files AI says it changed.
+
+16:10.439 --> 16:14.300
+Check it wide, like a laptop, and narrow, like a
+phone.
+
+16:16.185 --> 16:17.362
+Start with facts.
+
+16:17.628 --> 16:18.665
+Is your name right?
+
+16:18.930 --> 16:22.431
+Are the jobs, dates, projects and links all really
+in your CV?
+
+16:22.918 --> 16:24.355
+Anything private showing?
+
+16:24.581 --> 16:27.040
+AI can slip up, even with a careful Prompt.
+
+16:28.565 --> 16:29.522
+Then structure.
+
+16:30.008 --> 16:32.006
+Does the menu match your Blueprint?
+
+16:32.392 --> 16:34.511
+Can you find your main message fast?
+
+16:34.797 --> 16:36.535
+Are the sections in the right order?
+
+16:36.820 --> 16:39.380
+Does the contact link work, and is it safe?
+
+16:41.526 --> 16:42.341
+Something off?
+
+16:42.827 --> 16:43.762
+Step five.
+
+16:44.568 --> 16:48.106
+Find the card that matches what you see and open its
+fix.
+
+16:48.772 --> 16:51.409
+Did AI build before showing a Blueprint?
+
+16:51.935 --> 16:53.090
+Is the preview blank?
+
+16:53.456 --> 16:56.233
+Did it make something up, or show something it
+shouldn't?
+
+16:56.538 --> 16:59.536
+Did it swap your project for a plain HTML page?
+
+17:00.021 --> 17:01.330
+There's a fix for each.
+
+17:01.330 --> 17:04.440
+Just send one fix at a time, not all four at once.
+
+17:06.386 --> 17:10.872
+Step six tells you when you're done: you can see a
+true Version 1,
+
+17:11.238 --> 17:13.879
+and your Builder stopped before the next round.
+
+17:16.186 --> 17:18.296
+Last folder: Check and Save.
+
+17:18.296 --> 17:19.484
+Three quick checks.
+
+17:19.810 --> 17:20.866
+Is your name right?
+
+17:21.131 --> 17:22.608
+Are your main facts right?
+
+17:22.893 --> 17:26.572
+And do you know where this project lives and how to
+open it again?
+
+17:27.038 --> 17:28.734
+Keep it in the Builder you used.
+
+17:28.960 --> 17:32.098
+A screenshot or a chat summary isn't the project.
+
+17:32.384 --> 17:33.780
+And don't start a new one.
+
+17:35.946 --> 17:37.742
+So look at what you just did.
+
+17:38.288 --> 17:40.525
+You didn't ask AI to invent you.
+
+17:41.151 --> 17:46.611
+You picked a real starting project, gave it your
+real facts and a clear boundary,
+
+17:47.157 --> 17:50.135
+approved the plan, and checked what you kept.
+
+17:50.761 --> 17:55.140
+That habit works for any AI project, not just
+websites.
+
+17:57.226 --> 18:02.647
+On my website, I say it in six words: AI in
+Learning, Humans in Charge.
+
+18:03.012 --> 18:06.171
+The board stays open for you, so come back anytime.
+
+18:06.676 --> 18:10.355
+And if you've got a minute, there's a short survey
+in the first folder.
+
+18:10.621 --> 18:12.317
+Tell me what would help you next.
+
+18:12.863 --> 18:14.560
+Thanks for building with me.
